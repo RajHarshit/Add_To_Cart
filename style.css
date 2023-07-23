@@ -79,7 +79,7 @@ ul li {
 }
 
 
-ul li: hover{
+ul li:hover{
     background-color: #F4E0B9;
     cursor: pointer;
 }
